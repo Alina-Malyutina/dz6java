@@ -16,11 +16,6 @@ public class Notebook {
         this.color = color;
     }
 
-
-    public String getModel() {
-        return model;
-    }
-
     public int getRAM() {
         return RAM;
     }
